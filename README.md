@@ -1,11 +1,11 @@
 # PowerBI-Customer-Churn-Analysis
 Customer Churn Analysis Dashboard built using Power BI. This report helps to understand why customers leave, identify key churn drivers, and find ways to retain valuable customers. Includes interactive visuals, KPIs, and data-driven insights.
 
-# 📊 Customer Churn Analysis – Power BI Dashboard
+# Customer Churn Analysis – Power BI Dashboard
 
 ![Dashboard Preview](DashboardPreview.png)
 
-### 🔹 Dashboard Pages Preview
+### Dashboard Pages Preview
 | Page | Preview |
 |------|----------|
 | **Page 1:** Overview | ![Page 1](Page1.png) |
@@ -15,7 +15,7 @@ Customer Churn Analysis Dashboard built using Power BI. This report helps to und
 
 ---
 
-### 🧩 Overview
+### Overview
 This project is an interactive Power BI dashboard that analyses customer churn for a telecom company.  
 It helps to understand customer behavior, identify the main reasons for churn, and support data-based decisions to reduce churn and improve customer retention.
 
@@ -59,7 +59,7 @@ It helps to understand customer behavior, identify the main reasons for churn, a
 
 ---
 
-### 🔗 Live Dashboard
+### Live Dashboard
 you can download the `.pbix` file from this repository and view it in **Power BI Desktop**.
 
 ---
@@ -79,7 +79,7 @@ you can download the `.pbix` file from this repository and view it in **Power BI
 
 ---
 
-### 👨‍💻 About the Author
+###  About the Author
 **Arutla Rakshith**  
 B.Tech in Computer Science (AI & Data Science)  
 Aspiring Data Analyst | Skilled in Power BI, Python, SQL, and Data Visualization   
