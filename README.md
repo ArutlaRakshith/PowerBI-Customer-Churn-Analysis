@@ -83,8 +83,8 @@ you can download the `.pbix` file from this repository and view it in **Power BI
 **Arutla Rakshith**  
 B.Tech in Computer Science (AI & Data Science)  
 Aspiring Data Analyst | Skilled in Power BI, Python, SQL, and Data Visualization   
-💼 [LinkedIn Profile](https://www.linkedin.com/)  
-📂 [GitHub Profile](https://github.com/)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/rakshitharutla/)  
+📂 [GitHub Profile](https://github.com/ArutlaRakshith)
 
 ---
 
